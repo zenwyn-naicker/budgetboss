@@ -1,0 +1,5 @@
+# Copy to local.properties and supply your own local values.
+# sdk.dir=/absolute/path/to/your/Android/sdk
+SUPABASE_URL=
+SUPABASE_ANON_KEY=
+SUPABASE_RECEIPT_BUCKET=receipts

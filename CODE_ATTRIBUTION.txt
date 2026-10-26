@@ -1,0 +1,113 @@
+/*Group Name: ETC ETC*/
+/*Group Members:
+Khayden Chetty
+Rivaan Kawulesar
+Stephane Nsengiyumva
+Zenwyn Naicker
+*/
+/*Code Attribution: */
+/**************************************************************************************************************
+ * Author: ebadamZA
+ * Date: 2026
+ * Title: Sandbox
+ * Type: [Source Code]
+ * Available at: <https://github.com/PROG7313-2026-EMDBN/Sandbox.git> [Accessed 20 April 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: State and Jetpack Compose
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/develop/ui/compose/state> [Accessed 20 April 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Navigation with Compose
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/develop/ui/compose/navigation> [Accessed 20 April 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Save data in a local database using Room
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/training/data-storage/room> [Accessed 20 April 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: State holders and UI state
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/topic/architecture/ui-layer/stateholders> [Accessed 20 April 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Get a result from an activity
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/training/basics/intents/result> [Accessed 20 April 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: FileProvider
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/reference/androidx/core/content/FileProvider> [Accessed 20 April 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: Add Firebase to your Android project
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/android/setup> [Accessed 13 May 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: Authenticate with Firebase using Password-Based Accounts on Android
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/auth/android/password-auth> [Accessed 13 May 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: Get started with Firestore Standard edition
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/firestore/quickstart> [Accessed 13 May 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Firebase
+ * Date: 2026
+ * Title: FirebaseFirestore
+ * Type: [Source Code]
+ * Available at: <https://firebase.google.com/docs/reference/kotlin/com/google/firebase/firestore/FirebaseFirestore> [Accessed 13 May 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Supabase
+ * Date: 2026
+ * Title: Storage
+ * Type: [Source Code]
+ * Available at: <https://supabase.com/docs/guides/storage> [Accessed 13 May 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Supabase
+ * Date: 2026
+ * Title: Upload a new object
+ * Type: [Source Code]
+ * Available at: <https://supabase.com/docs/reference/self-hosting-storage/v1/upload-a-new-object> [Accessed 13 May 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: Graphics in Compose
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/develop/ui/compose/graphics/draw/overview> [Accessed 13 May 2026]
+ **************************************************************************************************************/
+/**************************************************************************************************************
+ * Author: Android Developers
+ * Date: 2026
+ * Title: ActivityResultContracts.OpenDocument
+ * Type: [Source Code]
+ * Available at: <https://developer.android.com/reference/kotlin/androidx/activity/result/contract/ActivityResultContracts.OpenDocument> [Accessed 13 May 2026]
+ **************************************************************************************************************/
